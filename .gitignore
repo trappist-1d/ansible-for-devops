@@ -1,5 +1,6 @@
 .DS_Store
 .vagrant/
+.vscode/
 vagrant_ansible_inventory_default
 __pycache__
 *.cache
